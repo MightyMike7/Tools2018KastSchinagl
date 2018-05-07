@@ -5,5 +5,6 @@ public class DummyClass {
 
 	public void thisIsANewMethod() {
 		// This Method is empty!!
+		int i = 0;
 	}
 }
