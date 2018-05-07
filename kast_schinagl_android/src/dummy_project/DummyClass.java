@@ -7,5 +7,8 @@ public class DummyClass {
 		// This Method is empty!!
 		int i = 0;
 		i=1;
+	
+		//Hotfix new Line here 
+	
 	}
 }
